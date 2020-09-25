@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chegg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onCreateViewBottom">onCreateView of Bottom Fragment Executed\n</string>
+    <string name="onCreateViewTop">onCreateView of Top Fragment Executed\n</string>
+    <string name="onStartTop">onStart of Top Fragment Executed\n</string>
+    <string name="onStartBottom">onStart of Bottom Fragment Executed\n</string>
+    <string name="onStart">onStart Executed\n</string>
+    <string name="onCreate">onCreate Executed\n</string>
+    <string name="onDestroy">onDestroy Executed\n</string>
+    <string name="onPause">onPause Executed\n</string>
+    <string name="onResume">onResume Executed\n</string>
+    <string name="onStop">onStop Executed\n</string>
+
+    <string-array name="listItemsArray">
+        <item>AIActivity</item>
+        <item>VRActivity</item>
+    </string-array>
+</resources>
